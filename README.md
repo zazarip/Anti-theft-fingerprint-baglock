@@ -1,4 +1,4 @@
-![schematic_page-0001](https://github.com/zazarip/Anti-theft-fingerprint-baglock/assets/106441151/30914f02-dba5-4bc3-b9b9-a0c5e1c7a248)# Anti-Theft Fingerprint Bag Lock with GPS and GSM Module
+# Anti-Theft Fingerprint Bag Lock with GPS and GSM Module
 
 ![Project Image](![schematic_page-0001](https://github.com/zazarip/Anti-theft-fingerprint-baglock/assets/106441151/7c7b8636-28ba-4c07-8b0b-80384ccbd6f8)
 )
