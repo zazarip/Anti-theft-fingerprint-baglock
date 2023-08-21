@@ -1,7 +1,6 @@
-#Anti-Theft Fingerprint Bag Lock with GPS and GSM Module
+# Anti-Theft Fingerprint Bag Lock with GPS and GSM Module
 
-(![schematic_page-0001](https://github.com/zazarip/Anti-theft-fingerprint-baglock/assets/106441151/7c7b8636-28ba-4c07-8b0b-80384ccbd6f8)
-)
+![Project Image](./schematic_page-0001.jpg)
 
 ## Table of Contents
 
@@ -65,3 +64,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Feel free to customize the above template to fit your project's specifics. Make sure to replace placeholders like `your-username`, `your-repo`, and `url_to_project_image` with actual values. A good README provides clear instructions, explains the purpose and functionality of your project, and invites others to contribute.
+
